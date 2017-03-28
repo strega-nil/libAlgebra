@@ -1,0 +1,5 @@
+- Finish Test Suite
+
+- Allow inversion of bigger matrices
+
+- MatrixInit(): Allow non den = 0 fractions
